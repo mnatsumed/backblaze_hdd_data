@@ -1,4 +1,4 @@
-# HDD dataset
+# [HDD dataset](https://github.com/mnatsumed/backblaze_hdd_data)
 This repository provides the HDD dataset used in the evaluation for the method proposed in the paper entitled "[Consistent pretext and auxiliary tasks with relative remaining useful life estimation](https://ieeexplore.ieee.org/document/10415283)." The original data is provided by [Backblaze, inc.](https://www.backblaze.com/cloud-storage/resources/hard-drive-test-data) Please check out the web page for the license. You are solely responsible for how you use the data in the repository.
 
 # Data processing
